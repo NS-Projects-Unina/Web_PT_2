@@ -6,7 +6,7 @@
 
 ## 🧩 Descrizione dei laboratori
 
-### 🔹 HackTheBox – Room strutturata
+### 🔹 HackTheBox – Strutted Room 
 Walkthrough della room, analisi di tutti i passi necessari:
 - fase di scanning-enumerazione
 - analisi dei servizi esposti

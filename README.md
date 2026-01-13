@@ -20,6 +20,7 @@ Walkthrough della room, analisi di tutti i passi necessari:
 ### 🔹 PortSwigger – SQL Injection UNION attack
 Walkthrough del laboratorio:
 - Identificazione della vulnerabilità
+- Utilizzo di Burp Suite per catturare e modificare richieste HTTP
 - exploit tramite UNION
 
 ---

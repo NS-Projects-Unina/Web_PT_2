@@ -12,6 +12,8 @@ Walkthrough della room, analisi di tutti i passi necessari:
 - analisi dei servizi esposti
 - identificazione e approfondimento della vulnerabilità principale, ovvero CVE-2024-53677
 - exploit di CVE-2024-53677
+- Remote Code Execution - Web Shell
+- Reverse Shell
 - Privilege escalation
 - Possibili mitigazioni
 
